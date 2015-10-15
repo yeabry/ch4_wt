@@ -43,3 +43,6 @@ group :development, :test do
   gem 'spring'
 end
 
+# use Haml for templates
+gem 'haml'
+# use Ruby debugger
